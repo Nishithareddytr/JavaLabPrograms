@@ -1,1 +1,1 @@
-# JavaLabPrograms
+# Java Lab Programs
